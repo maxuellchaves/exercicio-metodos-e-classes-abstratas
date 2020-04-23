@@ -1,0 +1,7 @@
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\bin\Debug\exercicio Métodos abstratos.exe.config
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\bin\Debug\exercicio Métodos abstratos.exe
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\bin\Debug\exercicio Métodos abstratos.pdb
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\obj\Debug\exercicio Métodos abstratos.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\obj\Debug\exercicio Métodos abstratos.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\obj\Debug\exercicio Métodos abstratos.exe
+C:\Users\Mike\source\repos\exercicio Métodos abstratos\obj\Debug\exercicio Métodos abstratos.pdb
